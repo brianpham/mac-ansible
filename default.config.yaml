@@ -1,0 +1,13 @@
+homebrew_installed_packages:
+ - act
+ - adns
+ - git
+ - git-lfs
+ - flux
+ - jq
+ - kubectx
+ - tig
+ - tfswitch
+ - vector
+ - yq
+

@@ -1,6 +1,9 @@
 ---
 - hosts: all
 
+  vars_files:
+    - default.config.yaml
+
   roles:
     - role: elliotweiser.osx-command-line-tools
     - role: geerlingguy.mac.homebrew
